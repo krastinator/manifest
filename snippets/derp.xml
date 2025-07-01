@@ -21,10 +21,10 @@
     fetch="https://github.com/DerpFest-AOSP"
     revision="15.2" />
 
-  <remote
+  <!--<remote
     name="derp-devices"
     fetch="https://github.com/DerpFest-Devices"
-    revision="15" />
+    revision="15" />-->
 
   <remote
     name="gitlab"
